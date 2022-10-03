@@ -8,8 +8,7 @@ And don't worry it's more than just:
 Hello, World!
 ```
 My homepage for GitHub is: [GitHub Page](https://github.com/hugompham)
-![dog image](shiba%20inu.jpg)
-![]
+![dog image](Week-0-1-Lab/Week0-1-Lab1/shiba inu.jpg)
 However to rank my understanding of these technical skills:
 1. Java
 2. C++
